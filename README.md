@@ -1,5 +1,9 @@
 # Showcasing my running medals 🏃‍♀️
 
+Just like a marathon, you can't finish the race by trying to run as fast as you can from the outset. You win by conserving your resources and pacing yourself. Software development is a marathon,  not a sprint.  - Richard Martin, The Clean Coder
+
+
+
 #myprecious🤣 
 
 <img src="https://s1.imghub.io/dxcEd.jpg" height="400" width="400">
