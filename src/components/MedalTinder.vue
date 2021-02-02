@@ -62,7 +62,7 @@ export default {
           this.$refs.tinder.rewind([this.history.pop()]);
         }
       } else if (choice === "help") {
-        window.open("https://github.com/jsafe00");
+        window.open("https://github.com/jsafe00/her-running-medals");
       } else {
         this.$refs.tinder.decide(choice);
       }
