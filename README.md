@@ -1,6 +1,6 @@
 # Showcasing my running medals 🏃‍♀️
 
-## I'm playing with vue.js.
+## I'm playing with vue.js. This is still in progress but you can check it here: https://her-running-medals.vercel.app/
 
 ### Project setup
 ```
