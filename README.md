@@ -1,6 +1,8 @@
-# medal-tinder
+# Showcasing my running medals 🏃‍♀️
 
-## Project setup
+## I'm playing with vue.js.
+
+### Project setup
 ```
 npm install
 ```
