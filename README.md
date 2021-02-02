@@ -1,5 +1,7 @@
 # Showcasing my running medals 🏃‍♀️
 
+#myprecious🤣 
+
 <img src="https://s1.imghub.io/dxcEd.jpg" height="400" width="400">
 
 ## I'm playing with vue.js. This is still in progress but you can check it live here: https://her-running-medals.vercel.app/
