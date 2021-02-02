@@ -19,6 +19,9 @@
       <img src="../assets/like.png" @click="decide('like')">
       <img src="../assets/help.png" @click="decide('help')">
     </div>
+    <div class="copyright">
+      <p>© <a href="https://github.com/jsafe00/her-running-medals" target="_blank">Made with vue and me</a></p>
+    </div>
   </div>
 </template>
 
@@ -84,6 +87,10 @@ body {
   padding:50px;
 }
 
+a { 
+    color: white;
+}
+
 #app .vue-tinder {
   position: absolute;
   z-index: 1;
@@ -144,7 +151,7 @@ body {
   max-width: 355px;
 }
 
-.music {
+.copyright {
   position: fixed;
   left: 0;
   right: 0;
@@ -157,6 +164,8 @@ body {
   justify-content: center;
   min-width: 300px;
   max-width: 355px;
+  font-family: arial;
+  font-size: 11px;
 }
 
 .btns img {
