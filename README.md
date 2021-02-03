@@ -1,4 +1,4 @@
-# Showcasing my running medals 🏃‍♀️
+My running medals 🏃‍♀️
 
 Just like a marathon, you can't finish the race by trying to run as fast as you can from the outset. You win by conserving your resources and pacing yourself. Software development is a marathon,  not a sprint.  - <a href="https://www.goodreads.com/book/show/10284614-the-clean-coder" target="_blank">Robert C. Martin, The Clean Coder</a>
 
