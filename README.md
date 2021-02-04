@@ -6,7 +6,7 @@ Just like a marathon, you can't finish the race by trying to run as fast as you 
 
 #myprecious🤣 
 
-## I'm playing with vue.js. This is still in progress but you can check it live here: https://her-runningmedals.vercel.app/
+## I'm playing with vue.js with vue tinder. This is still in progress but you can check it live here: https://her-runningmedals.vercel.app/
 
 ### Project setup
 ```
