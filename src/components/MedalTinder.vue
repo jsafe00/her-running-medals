@@ -19,8 +19,8 @@
       <img src="../assets/like.png" @click="decide('like')">
       <img src="../assets/help.png" @click="decide('help')">
     </div>
-    <div class="copyright">
-      <p>© <a href="https://github.com/jsafe00/her-running-medals" target="_blank">Made with vue and me</a></p>
+    <div class="footer">
+      <a href="https://github.com/jsafe00/her-running-medals" target="_blank">Made with vue and me</a>
     </div>
   </div>
 </template>
@@ -75,16 +75,17 @@ export default {
 </script>
 
 <style>
-html,
-body {
-  height: 100%;
+html {
+  max-width: 100%;
+  overflow-x: hidden; 
 }
 
 body {
   margin: 0;
   background-color: #20262e;
-  overflow: hidden;
   padding:50px;
+  display:flex;
+  max-width: 100%;
 }
 
 a { 
@@ -151,8 +152,8 @@ a {
   max-width: 355px;
 }
 
-.copyright {
-  position: fixed;
+.footer{
+ position: fixed;
   left: 0;
   right: 0;
   color:white;
@@ -187,4 +188,13 @@ a {
 .btns img:nth-last-child(1) {
   margin-right: 0;
 }
+
+@media screen and (max-width: 1000px) {
+  html, body { 
+    max-width: 100% !important; overflow-x: hidden !important; 
+    } 
+}
+
 </style>
+
+
