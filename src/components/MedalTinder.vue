@@ -20,7 +20,7 @@
       <img src="../assets/help.png" @click="decide('help')">
     </div>
     <div class="footer">
-      <a href="https://github.com/jsafe00/her-running-medals" target="_blank">Made with vue and me</a>
+      <!-- to do  -->
     </div>
   </div>
 </template>
@@ -191,7 +191,8 @@ a {
 
 @media screen and (max-width: 1000px) {
   html, body { 
-    max-width: 100% !important; overflow-x: hidden !important; 
+    max-width: 100% !important; 
+    overflow-x: hidden !important; 
     } 
 }
 
